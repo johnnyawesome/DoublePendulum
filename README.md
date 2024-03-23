@@ -10,8 +10,8 @@ The [three-body problem]([https://www.google.com](https://en.wikipedia.org/wiki/
 
 In a nutshell:
 
-- A pendulum is 100% [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). It's behavior and where it will be in the future are 100% predictable once you know certain facts about it.
-- A double-pendulum (which is nothing but adding another pendulum to the first one) on the other hand, behaves [chaotic](https://en.wikipedia.org/wiki/Chaos_theory). Mind you, it is still [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). But long-term predictions where the second pendulum will be in the (far) future are now almost impossible.
+- A pendulum is 100% [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). A pendulum's future positions are predictable once you know certain facts about it.
+- A double-pendulum (which is nothing but adding another pendulum to the first one) on the other hand, behaves [chaotic](https://en.wikipedia.org/wiki/Chaos_theory). Mind you, it is still [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). But long-term predictions where the pendulums will be in the (far) future are almost impossible.
 
 ## Interactive
 
@@ -24,6 +24,6 @@ You can also adjust the pendulum-size via a slider:
 ![Double Pendulum three-body problem drag and adjust gravity](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulumSliders/DemoImages/DoublePendulumAdjustSize.gif?raw=true)
 
 
-You can also change the gravity via a slider:
+Finally, you can change the gravity, too, via a slider:
 
 ![Double Pendulum three-body problem drag and adjust size](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulumSliders/DemoImages/DoublePendulumAdjustGravity.gif?raw=true)
