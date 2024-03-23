@@ -13,7 +13,12 @@ In a nutshell:
 - A pendulum is 100% [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). A pendulum's future positions are predictable once you know certain facts about it.
 - A double-pendulum (which is nothing but adding another pendulum to the first one) on the other hand, behaves [chaotic](https://en.wikipedia.org/wiki/Chaos_theory). Mind you, it is still [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). But long-term predictions where the pendulums will be in the (far) future are almost impossible.
 
-## Interactive
+## Two versions
+
+- (DoublePendulum)[https://github.com/johnnyawesome/DoublePendulum/tree/main/DoublePendulum] is just a double pendulum you can drag to give it momentum
+- (DoublePendulumSliders)[[https://github.com/johnnyawesome/DoublePendulum/tree/main/DoublePendulum](https://github.com/johnnyawesome/DoublePendulum/tree/main/DoublePendulumSliders)] has got sliders to adjust below parameters
+
+## Interactive version
 
 This animation is interactive:
 
