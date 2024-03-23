@@ -21,8 +21,9 @@ You can grab the middle-pendulum with your mouse and give it a push for more acc
 
 You can also adjust the pendulum-size via a slider:
 
-![Double Pendulum three-body problem drag and adjust size](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulumSliders/DemoImages/DoublePendulumAdjustGravity.gif?raw=true)
+![Double Pendulum three-body problem drag and adjust gravity](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulumSliders/DemoImages/DoublePendulumAdjustSize.gif?raw=true)
+
 
 You can also change the gravity via a slider:
 
-![Double Pendulum three-body problem drag and adjust gravity](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulumSliders/DemoImages/DoublePendulumAdjustSize.gif?raw=true)
+![Double Pendulum three-body problem drag and adjust size](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulumSliders/DemoImages/DoublePendulumAdjustGravity.gif?raw=true)
