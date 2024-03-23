@@ -2,7 +2,7 @@
 
 A double pendulum, demonstrating the three-body problem.
 
-![Double Pendulum three-body problem]([https://github.com/johnnyawesome/Image.jpg](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulum/DemoImages/DoublePendulum.gif?raw=true)https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulum/DemoImages/DoublePendulum.gif?raw=true)
+![Double Pendulum three-body problem](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulum/DemoImages/DoublePendulum.gif?raw=true)https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulum/DemoImages/DoublePendulum.gif?raw=true)
 
 The [three-body problem]([https://www.google.com](https://en.wikipedia.org/wiki/Three-body_problem)https://en.wikipedia.org/wiki/Three-body_problem) comes from physics and mathematics, specifically, (dynamical systems)[https://en.wikipedia.org/wiki/Dynamical_system].
 
