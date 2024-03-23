@@ -16,7 +16,7 @@ In a nutshell:
 ## Two versions
 
 - [DoublePendulum](https://github.com/johnnyawesome/DoublePendulum/tree/main/DoublePendulum) is just a double pendulum you can drag to give it momentum
-- [DoublePendulumSliders](https://github.com/johnnyawesome/DoublePendulum/tree/main/DoublePendulumSliders)] has got sliders to adjust below parameters
+- [DoublePendulumSliders](https://github.com/johnnyawesome/DoublePendulum/tree/main/DoublePendulumSliders) has got sliders to adjust below parameters
 
 ## Interactive version
 
