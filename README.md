@@ -4,9 +4,9 @@ A double pendulum, demonstrating the three-body problem.
 
 ![Double Pendulum three-body problem](https://github.com/johnnyawesome/DoublePendulum/blob/main/DoublePendulum/DemoImages/DoublePendulum.gif?raw=true)
 
-The [three-body problem]([https://www.google.com](https://en.wikipedia.org/wiki/Three-body_problem)https://en.wikipedia.org/wiki/Three-body_problem) comes from physics and mathematics, specifically (dynamical systems)[https://en.wikipedia.org/wiki/Dynamical_system].
+The [three-body problem]([https://www.google.com](https://en.wikipedia.org/wiki/Three-body_problem)https://en.wikipedia.org/wiki/Three-body_problem) comes from physics and mathematics, specifically [dynamical systems](https://en.wikipedia.org/wiki/Dynamical_system).
 
-[Double pendulums](https://en.wikipedia.org/wiki/Double_pendulum) are an easy way of demonstrating the (three-body problem)[[https://www.google.com](https://en.wikipedia.org/wiki/Three-body_problem].
+[Double pendulums](https://en.wikipedia.org/wiki/Double_pendulum) are an easy way of demonstrating the [three-body problem](https://en.wikipedia.org/wiki/Three-body_problem).
 
 In a nutshell:
 
