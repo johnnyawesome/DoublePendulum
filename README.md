@@ -12,3 +12,9 @@ In a nutshell:
 
 - A pendulum is 100% [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). It's behavior and where it will be in the future are 100% predictable once you know certain facts about it.
 - A double-pendulum (which is nothing but adding another pendulum to the first one) on the other hand, behaves [chaotic](https://en.wikipedia.org/wiki/Chaos_theory). Mind you, it is still [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). But long-term predictions where the second pendulum will be in the (far) future are now almost impossible.
+
+## Interactive
+
+This animation is interactive:
+
+You can grab the middle-pendulum with your mouse and give it a push for more acceleration
